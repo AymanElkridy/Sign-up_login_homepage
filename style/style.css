@@ -1,0 +1,72 @@
+body {
+    margin: 0;
+    background-color: #dee9e7;
+    color: #212529;
+    text-align: center;
+}
+
+.formH {
+    text-align: center;
+    margin-top: 9rem;
+}
+
+.theForm {
+    margin: 2rem auto;
+    width: 25%;
+    border: #8095a3 solid 2px;
+    border-radius: 10px;
+    padding: 30px;
+    background-color: #212529;
+    color: #dee9e7;
+    text-align: left;
+}
+
+.btn.btn-cancel {
+    color: #212529;
+    background-color: #dee9e7;
+}
+
+.hCon {
+    text-align: right;
+    padding-top: 5px;
+    color: #212529;
+}
+
+.bCon {
+    padding-top: 10px;
+}
+
+.add-btn {
+    display: flex;
+}
+
+table.table.table-bordered {
+    width: 60%;
+    align-content: center;
+    text-align: center;
+    margin: 5rem auto;
+}
+
+.table.table-bordered td {
+    border-color: #212529;
+    background-color: #ffe;
+}
+
+a {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+[class*=" uil-"]:before {
+    font-size: x-large;
+}
+
+.container.theForm div.divi {
+    text-align-last: left;
+    margin-top: 7px;
+}
